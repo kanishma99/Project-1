@@ -14,4 +14,18 @@ public class Mobile {
 		 System.out.println("3");
 		 
 	}
+	 private void kkk() {
+		 System.out.println("4");
+
+	}
+	 private void sss() {
+		 System.out.println("5");
+
+
+	}
+	 private void lkj() {
+		 System.out.println("6");
+
+
+	}
  }
