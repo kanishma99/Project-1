@@ -25,7 +25,23 @@ public class Mobile {
 	}
 	 private void lkj() {
 		 System.out.println("6");
-
+ 
 
 	}
- }
+	 private void chair() {
+		 System.out.println("chair");
+
+	}
+	 private void washingmachine() {
+		 System.out.println("machine");
+
+	}
+	 private void boxer() {
+		 System.out.println("boxer");
+ 
+	 }
+	 
+
+
+
+}
