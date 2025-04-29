@@ -14,4 +14,16 @@ public class Mobile {
 		 System.out.println("3");
 		 
 	}
+	 private void chair() {
+		 System.out.println("chair");
+
+	}
+	 private void washingmachine() {
+		 System.out.println("machine");
+
+	}
+	 private void boxer() {
+		 System.out.println("boxer");
+
+	}
  }
